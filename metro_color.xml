@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Metro Color-->
+    <color name="Metro_Lime">#a4c400</color>
+    <color name="Metro_Green">#60a917</color>
+    <color name="Metro_Emerald">#008a00</color>
+    <color name="Metro_Teal">#00aba9</color>
+    <color name="Metro_Cyan">#1ba1e2</color>
+    <color name="Metro_Cobalt">#0050ef</color>
+    <color name="Metro_Indigo">#6a00ff</color>
+    <color name="Metro_Violet">#aa00ff</color>
+    <color name="Metro_Pink">#f472d0</color>
+    <color name="Metro_Magenta">#d80073</color>
+    <color name="Metro_Crimson">#a20025</color>
+    <color name="Metro_Red">#e51400</color>
+    <color name="Metro_Orange">#fa6800</color>
+    <color name="Metro_Amber">#f0a30a</color>
+    <color name="Metro_Yellow">#e3c800</color>
+    <color name="Metro_Brown">#825a2c</color>
+    <color name="Metro_Olive">#6d8764</color>
+    <color name="Metro_Steel">#647687</color>
+    <color name="Metro_Mauve">#76608a</color>
+    <color name="Metro_Sienna">#a0522d</color>
+</resources>
